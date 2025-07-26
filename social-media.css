@@ -28,21 +28,24 @@
   padding: 7px 14px;
   border-radius: 6px;
   font-weight: bold;
-  color: #ffffff;
   text-decoration: none;
   font-size: 15px;
+  display: inline-block;
+  transition: background 0.3s ease;
 }
 
-.green {
+.join-btn.green {
   background-color: #25D366;
+  color: #fff !important;
 }
-.green:hover {
+.join-btn.green:hover {
   background-color: #1DA851;
 }
 
-.blue {
+.join-btn.blue {
   background-color: #0088cc;
+  color: #fff !important;
 }
-.blue:hover {
+.join-btn.blue:hover {
   background-color: #0072a1;
 }
