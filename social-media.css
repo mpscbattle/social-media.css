@@ -1,13 +1,14 @@
 .group-box {
   display: flex;
+  max-width: 70%;
   justify-content: space-between;
   align-items: center;
   border-radius: 10px;
   padding: 10px 15px;
-  margin: 15px 0;
+  margin: 10px 0;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
   background-color: #fff;
-  border: 2px solid #eee;
+  border: 1px solid #eee;
 }
 
 .group-label {
