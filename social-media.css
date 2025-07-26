@@ -1,0 +1,48 @@
+.group-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px;
+  padding: 10px 15px;
+  margin: 15px 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  background-color: #fff;
+  border: 2px solid #eee;
+  font-family: 'Poppins', sans-serif;
+}
+
+.group-label {
+  display: flex;
+  align-items: center;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.icon {
+  width: 26px;
+  height: 26px;
+  margin-right: 10px;
+}
+
+.join-btn {
+  padding: 7px 14px;
+  border-radius: 6px;
+  font-weight: bold;
+  color: #fff;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.green {
+  background-color: #25D366;
+}
+.green:hover {
+  background-color: #1DA851;
+}
+
+.blue {
+  background-color: #0088cc;
+}
+.blue:hover {
+  background-color: #0072a1;
+}
