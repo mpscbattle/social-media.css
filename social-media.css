@@ -1,6 +1,5 @@
 .group-box {
   display: flex;
-  max-width: 70%;
   justify-content: space-between;
   align-items: center;
   border-radius: 10px;
