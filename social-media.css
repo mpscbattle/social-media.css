@@ -15,7 +15,7 @@
   justify-content: space-between;
   align-items: center;
   border-radius: 5px;
-  padding: 10px 15px;
+  padding: 7px 12px;
   margin: 10px 0;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
   background-color: #fff;
@@ -37,7 +37,7 @@
 }
 
 .join-btn {
-  padding: 7px 14px;
+  padding: 7px 12px;
   border-radius: 5px;
   font-weight: bold;
   text-decoration: none;
